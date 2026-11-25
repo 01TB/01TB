@@ -1,6 +1,6 @@
 ## Bonjour, je suis Tsitohaina Berthin 👋
 
-Développeur **full stack** basé à Antananarivo (Madagascar), diplômé d'une Licence 3 Informatique (IT University). Je travaille en **PHP** (PrestaShop, Laravel, Symfony), **Java / Spring Boot**, **Node.js / NestJS** et **React / TypeScript**. Je suis actuellement en stage chez **Orange Madagascar**, où je développe une application Android hors ligne pour les techniciens.
+Développeur **full stack** basé à Antananarivo (Madagascar), diplômé d'une Licence 3 Informatique (IT University). Je travaille en **PHP** (PrestaShop, Laravel, Symfony), **Java / Spring Boot**, **Node.js / NestJS** et **React / TypeScript**. 
 
 J'utilise Claude Code au quotidien pour analyser du code, développer, déboguer et documenter, en gardant la main sur ce que je livre : je relis, je teste et je comprends chaque modification.
 
